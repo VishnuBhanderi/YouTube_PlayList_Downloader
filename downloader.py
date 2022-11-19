@@ -12,7 +12,6 @@ playlist=[]
 print(" \t \t \t ****************************************** \t \t \t ") 
 print("\t \t \t Welcome to the YouTube PlayList Downloader \t \t \t") 
 print(" \t \t \t ****************************************** \t \t \t") 
-print("\n \t \t \t \t Made by Vishnu Bhanderi \t \t \t \t \n \n") 
 
 
 url = input("Enter youtube playlist link to start downloading : ")
